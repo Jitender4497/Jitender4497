@@ -1,10 +1,36 @@
-# Hi, I'm Jitender Kumar
+<h1 align="center">Hi, I'm Jitender Kumar</h1>
+<h3 align="center">Data Analyst | SQL | Python | Tableau | Power BI</h3>
 
-Data Analyst focused on turning messy business data into clear decisions using `SQL`, `Python`, `Tableau`, and `Power BI`.
+<p align="center">
+  I build analytics projects that turn raw data into clear business decisions.
+</p>
 
-- B.E. Computer Science, Chandigarh University (`2026`)
-- Interested in analytics, business intelligence, dashboarding, and decision-focused storytelling
-- Currently building portfolio projects that combine `EDA + SQL + dashboards + business recommendations`
+<p align="center">
+  <a href="https://github.com/Jitender4497">
+    <img src="https://img.shields.io/badge/GitHub-Jitender4497-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/jitender-kumar-415860257">
+    <img src="https://img.shields.io/badge/LinkedIn-Jitender%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/jitender.kumar6303">
+    <img src="https://img.shields.io/badge/Tableau-Portfolio-E97627?style=for-the-badge&logo=tableau" alt="Tableau" />
+  </a>
+  <a href="mailto:georgian4497@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- Computer Science undergraduate at Chandigarh University (`2026`)
+- Focused on `Data Analytics`, `Business Intelligence`, and `Dashboard Storytelling`
+- Strongest with `SQL`, `Python`, `Tableau`, `Power BI`, and `Excel`
+- Interested in solving real business problems, not just building charts
+
+I like projects that answer three things clearly:
+**What happened? Why did it happen? What should the business do next?**
 
 ---
 
@@ -12,67 +38,64 @@ Data Analyst focused on turning messy business data into clear decisions using `
 
 ### Zomato Restaurant Analysis and Expansion Dashboard
 
-An end-to-end analytics project built to answer a real business question:
+**Business question:**  
+Which Indian cities offer the best restaurant quality, strongest value, and best expansion opportunity for Zomato?
 
-**Which Indian cities offer the best restaurant quality, best value, and strongest expansion opportunity for Zomato?**
-
-#### What this project includes
+#### What I built
 
 - Cleaned and analyzed `9,551` restaurant records across `15` countries
-- Focused India analysis for city quality, cuisine performance, delivery impact, and expansion potential
-- Wrote business SQL queries for ranking, grouping, filtering, and opportunity scoring
-- Built a decision-first Tableau dashboard for founders and investors
-- Created charts and supporting exports with Python and pandas
+- Focused the analysis on India for pricing, ratings, delivery adoption, and cuisine demand
+- Wrote business-driven SQL queries for ranking, filtering, and opportunity analysis
+- Built a Tableau dashboard for founders and investors to evaluate expansion strategy
+- Created Python charts and CSV outputs to support dashboard storytelling
 
-#### Business insights delivered
+#### Key insights
 
-- Smaller cities like `Lucknow`, `Guwahati`, and `Ahmedabad` outperform Delhi on ratings
-- Online delivery improves engagement more than it improves food quality
-- Italian cuisine unexpectedly leads average ratings in India
-- Delhi street food offers the strongest value-for-money
-- `Ahmedabad` emerges as a high-potential expansion city under the scoring model
+- `Lucknow`, `Guwahati`, and `Ahmedabad` outperform Delhi on restaurant ratings
+- Online delivery improves customer engagement more than food quality
+- `Italian cuisine` ranks highest by average rating in the India slice
+- Delhi street food leads on value-for-money
+- `Ahmedabad` stands out as a high-potential expansion city under the scoring model
 
-#### Tools used
+#### Stack
 
 `Python` `Pandas` `SQL` `SQLite` `Matplotlib` `Plotly` `Tableau`
 
-#### Links
+#### Project links
 
-- GitHub Repo: [Zomato_data_analysis](https://github.com/Jitender4497/Zomato_data_analysis)
-- Tableau Dashboard: [View Dashboard](https://public.tableau.com/app/profile/jitender.kumar6303)
-
----
-
-## What I Work On
-
-- SQL analysis projects with business questions, not just syntax practice
-- Python notebooks for cleaning, EDA, and insight generation
-- Tableau and Power BI dashboards designed for decision-making
-- Portfolio projects that show both technical skill and business thinking
+- Repository: [Zomato_data_analysis](https://github.com/Jitender4497/Zomato_data_analysis)
+- Tableau Public: [View Dashboard](https://public.tableau.com/app/profile/jitender.kumar6303)
 
 ---
 
 ## Tech Stack
 
-**Languages and Analysis**
-
+### Languages and Analysis
 `Python` `SQL` `Pandas` `NumPy`
 
-**Visualization**
+### Visualization and BI
+`Tableau` `Power BI` `Matplotlib` `Seaborn` `Plotly`
 
-`Tableau` `Power BI` `Matplotlib` `Plotly` `Seaborn`
+### Tools
+`Jupyter Notebook` `Excel` `Git` `GitHub`
 
-**Tools**
+---
 
-`Jupyter Notebook` `Git` `GitHub` `Excel`
+## What You’ll Find On My GitHub
+
+- End-to-end analytics case studies
+- SQL projects built around business questions
+- Python notebooks for EDA and cleaning
+- Tableau and Power BI dashboards
+- Portfolio work designed to show analysis, insight, and recommendation
 
 ---
 
 ## Current Focus
 
-- Building stronger end-to-end analytics case studies
-- Improving dashboard storytelling and executive presentation
-- Preparing for data analyst and BI analyst opportunities
+- Building stronger portfolio projects for data analyst roles
+- Improving executive-style dashboard design
+- Practicing more advanced SQL and analytics storytelling
 
 ---
 
@@ -85,8 +108,6 @@ An end-to-end analytics project built to answer a real business question:
 
 ---
 
-## Profile Snapshot
-
-- Strong in `SQL`, `Python`, and dashboarding
-- Prefer business-first analytics over generic charts
-- Build projects that answer: **What happened, why it happened, and what to do next**
+<p align="center">
+  <b>Open to Data Analyst, BI Analyst, and Analytics internship opportunities.</b>
+</p>
